@@ -3,8 +3,8 @@
 Layout di tastiera Italiana per Windows con combinazioni di tasti per **Backtick** ( `AltGr + '` ) e **Tilde** ( `AltGr + ì` ).
 
 #### Istruzioni per installare il layout
-1. Scarica il file zip [ItalianoPerSviluppator.zip](https://raw.githubusercontent.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick/master/release/ItalianoPerSviluppatori.zip)
-2. Estrai la cartella `Italiano con Accento Grave ( AltGr + ì) e Tilde (AltGr + =)`
+1. Scarica il file zip [ItalianoPerSviluppatori.zip](https://raw.githubusercontent.com/el3um4s/Tastiera-Italiana-Con-Tilde-Backtick/master/release/ItalianoPerSviluppatori.zip)
+2. Estrai la cartella `ita4js`
 3. Esegui 'setup.exe'
 4. Riavvia il computer
 
