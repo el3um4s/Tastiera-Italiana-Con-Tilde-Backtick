@@ -10,7 +10,7 @@ Layout di tastiera Italiana per Windows con combinazioni di tasti per **Backtick
 
 #### Come è stato creato il layout?
 
-Microsoft mette (metteva?) a disposizione un'app per modificare il layout delle tastiere di Window. L'ho scaricata, installa e poi ho eperto la tastiera italiana. Partendo da questa ho aggiunto le combinazioni di tasti
+Microsoft mette (metteva?) a disposizione un'app per modificare il layout delle tastiere di Window. L'ho scaricata, installa e poi ho aperto la tastiera italiana. Partendo da questa ho aggiunto le combinazioni di tasti
 * `CtrlGr + '` : **`**
 * `CtrlGr + ì` : **~**
 
